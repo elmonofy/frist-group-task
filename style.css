@@ -164,3 +164,24 @@
     font-weight: bold;
     font-size: larger;
 }
+.section10{
+    width: 100%;
+    height: 40vh;
+    background: url(images/quote.jpg);
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.575);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.section10 h1{
+    color:white;
+    padding-bottom: 20px;
+}
+.section10 p{
+    color: white;
+}
